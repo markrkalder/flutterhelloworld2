@@ -23,7 +23,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+    
+  cse2:
+    git:
+      url: https://github.com/markrkalder/cse2.git
+      ref: 1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
